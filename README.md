@@ -1,12 +1,12 @@
 # SEGMENT ANY OBJECT MODEL (SAOM): Real-to-Simulation Fine-Tuning Strategy for Multi-Class Multi-Instance Segmentation 
-Mariia Khan⋆†, Yue Qiu⋆, Yuren Cong†, Bodo Rosenhahn†, Jumana Abu-Khalaf⋆†, David Suter⋆†
+<p>Mariia Khan⋆†, Yue Qiu⋆, Yuren Cong†, Bodo Rosenhahn†, Jumana Abu-Khalaf⋆†, David Suter⋆†</p>
 
 
-⋆† School of Science, Edith Cowan University (ECU), Australia
+<p>⋆† School of Science, Edith Cowan University (ECU), Australia</p>
 
-⋆Artificial Intelligence Research Center (AIRC), AIST, Japan
+<p>⋆Artificial Intelligence Research Center (AIRC), AIST, Japan</p>
 
-†Institute for Information Processing, Leibniz University of Hannover (LUH), Germany
+<p>†Institute for Information Processing, Leibniz University of Hannover (LUH), Germany</p>
 
 [[`Paper`](https://arxiv.org/abs/2403.10780)] - accepted to [ICIP24](https://2024.ieeeicip.org/)
 
