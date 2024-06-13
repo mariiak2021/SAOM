@@ -8,7 +8,7 @@ Mariia Khan⋆†, Yue Qiu⋆, Yuren Cong†, Bodo Rosenhahn†, Jumana Abu-Khal
 [[`Paper`](https://arxiv.org/abs/2403.10780)] - accepted to [ICIP24](https://2024.ieeeicip.org/)
 
 <p float="left">
-  <img src="main.JPG?raw=true" width="20%" />
+  <img src="main.JPG?raw=true" width="30%" />
   <img src="pipeline.JPG?raw=true" width="61.5%" /> 
 </p>
 
