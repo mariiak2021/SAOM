@@ -1,2 +1,2 @@
-# SEGMENT ANY OBJECT MODEL (SAOM): REAL-TO-SIMULATION FINE-TUNING STRATEGY FOR MULTI-CLASS MULTI-INSTANCE SEGMENTATION
+# SEGMENT ANY OBJECT MODEL (SAOM): real-to-simulation fine-tuning strategy for multi-class multi-instance segmentation 
 
