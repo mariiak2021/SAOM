@@ -50,7 +50,7 @@ Here's a quick summary of the most important files/directories in this repositor
 * `dataset/`
     - `SCDTrack2PhD.py` - The file used for setting up the dataset files for traing/testing/validation
 
-
+</p>
 
 
 You can then install requirements by using conda, we can create a `embclone` environment with our requirements by running
