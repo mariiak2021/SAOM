@@ -65,12 +65,10 @@ Download weights for the original SAM  model (ViT-H SAM model and ViT-B SAM mode
 ```bash
 https://github.com/facebookresearch/segment-anything
 ```
-<details>
-
-
 </p>
 </details>
 
+<p>
 To train the model on several GPUs run:
 ```bash
 CUDA_VISIBLE_DEVICES=0,1,2,3 torchrun --nproc_per_node=4 finetuneSAM.py --world_size 4
@@ -90,4 +88,4 @@ To run the re-trained model in the everything mode run:
 ```bash
 tesbatch.py
 ```
-
+</p>
