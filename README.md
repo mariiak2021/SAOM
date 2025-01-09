@@ -35,14 +35,14 @@ git clone git@github.com:mariiak2021/SAOMv1-SAOMv2-and-PanoSAM.git
 <p>
 
 Here's a quick summary of the most important files/directories in this repository:
-* `finetuneSAM.py` the fine0tuning script, which can be used for any of SAOMv1, SAOMv2 or PanoSAM training;
-* environment.yml the file with all requirements to set up conda environment
-* show.py the file used for saving output masks during testing the model
-* testbatch.py the file to use while testing the re-trained model performance
-* eval_miou.py the file to use for evaluating the output masks
-* DSmetadataPanoSAM.json the mapping between masksa and images for PanoSAM model DS
-* DSmetadataSAOMv1.json the mapping between masksa and images for SAOMv1 model DS
-  DSmetadataSAOMv2.json the mapping between masksa and images for SAOMv2 model DS
+* `finetuneSAM.py` the fine-tuning script, which can be used for any of SAOMv1, SAOMv2 or PanoSAM training;
+* `environment.yml` the file with all requirements to set up conda environment
+* `show.py the file` used for saving output masks during testing the model
+* `testbatch.py` the file to use while testing the re-trained model performance
+* `eval_miou.py` the file to use for evaluating the output masks
+* `DSmetadataPanoSAM.json` the mapping between masksa and images for PanoSAM model DS
+* `DSmetadataSAOMv1.json` the mapping between masksa and images for SAOMv1 model DS
+  `DSmetadataSAOMv2.json` the mapping between masksa and images for SAOMv2 model DS
 * `per_segment_anything/`
     - `automatic_mask_generator.py` - The file used for testing fine-tuned SAM version, where you can set all parameters like IoU threshold.
     - `samwrapperpano.py` - The file used for training the model, e.g. finding the location prior for each object and getting it's nearest neighbor from the point grid.
